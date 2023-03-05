@@ -1,0 +1,20 @@
+.kings{
+	background-color:skyblue;
+	border:2px solid red;
+	padding:25px;
+	margin:15px;
+	}
+#mariya{
+	background-color:skyblue;
+	border:2px solid red;
+	padding:25px;
+	margin:15px;
+	}
+caption,table,th,td{
+	background-color:yellow;
+	border:2px solid red;
+	border-collapse:collapse;
+	}
+.kingsly{
+	text-align:center;
+	}
